@@ -6,7 +6,7 @@
   Use AI to generate scripts based on emotions.
 
 ## Approach
-Image
+![Approach](https://github.com/nlakshmanan/GhostWriters/blob/master/images/approach.png)
 
 ## Components
 - Script Dataset
@@ -20,10 +20,12 @@ Image
   - text generating AI used to develop new scripts based on user’s input
 
 ## Architecture
- Image
+ ![Architecture](https://github.com/nlakshmanan/GhostWriters/blob/master/images/architecture.png)
 
 ## Sample
- Image
+[Automated Script with sentiment analysis](https://github.com/nlakshmanan/GhostWriters/blob/master/examples/Automated%20Script%20with%20Emotions.pdf)
+
+[Automated Script without sentiment analysis](https://github.com/nlakshmanan/GhostWriters/blob/master/examples/Automated%20Script%20Before%20SA.pdf)
 
 ## Next steps
 - Refining scripts 
